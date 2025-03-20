@@ -1,4 +1,4 @@
-# Document Management and RAG-based Q&A API
+## Document Management and RAG-based Q&A API
 
 A FastAPI application for managing documents and answering questions using Retrieval-Augmented Generation (RAG).
 
@@ -117,11 +117,3 @@ Configuration options in `app/config.py`:
 - `LLM_MODEL`: The OpenAI model used for answering questions (default: "gpt-3.5-turbo")
 - `TOP_K_RETRIEVAL`: Number of chunks to retrieve for each question (default: 5)
 
-## Future Enhancements
-
-- Authentication and authorization
-- Support for additional document formats (PDF, DOCX)
-- Advanced document preprocessing
-- Improved retrieval algorithms
-- User feedback mechanisms
-- Response caching
