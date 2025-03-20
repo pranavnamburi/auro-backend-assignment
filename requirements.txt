@@ -1,0 +1,10 @@
+fastapi 
+uvicorn 
+python-multipart 
+langchain 
+langchain-openai 
+psycopg2-binary 
+sqlalchemy 
+pydantic[email] 
+python-dotenv
+numpy
