@@ -17,3 +17,4 @@ app/api/__pycache__/__init__.cpython-310.pyc
 app/api/__pycache__/documents.cpython-310.pyc
 app/api/__pycache__/qa.cpython-310.pyc
 app/api/__pycache__/users.cpython-310.pyc
+.gitignore
