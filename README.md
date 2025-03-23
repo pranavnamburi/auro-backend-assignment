@@ -12,8 +12,8 @@ A FastAPI application for managing documents and answering questions using Retri
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/document-qa-api.git
-cd document-qa-api
+git clone https://github.com/pranavnamburi/auro-backend-assignment.git
+cd auro-backend-assignment
 ```
 
 2. Create a virtual environment
